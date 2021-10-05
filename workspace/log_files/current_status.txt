@@ -1,0 +1,10 @@
+The current run of software on date: Monday, 11 Jan 2021 09:16:51 GMT, works on the following things: 
+
+1.) county/router name: kcm
+-> Agency for current county/router: king-county-metro 
+-> Agency for current county/router: sound-transit 
+-> Agency for current county/router: community-transit 
+-> Agency for current county/router: pierce-transit 
+-> Agency for current county/router: kitsap-transit 
+
+

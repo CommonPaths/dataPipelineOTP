@@ -1,0 +1,62 @@
+The following information is for date: Monday, 11 Jan 2021 09:16:59 GMT
+
+
+-> CREATING NEW GRAPHS FOR ALL PRESENT ROUTERS WITH LATEST GTFS
+
+
+- The graph.obj object of router/county: kcm was created.
+
+
+
+ 
+
+
+-> COPYING ALL WORKING GTFS FROM Folder 'current' TO Folder 'previous' FOR FUTURE REFERENCES
+
+
+- Copying GTFS file king-county-metro from 'current' to 'previous'. 
+
+
+- Copying GTFS file sound-transit from 'current' to 'previous'. 
+
+
+- Copying GTFS file community-transit from 'current' to 'previous'. 
+
+
+- Copying GTFS file pierce-transit from 'current' to 'previous'. 
+
+
+- Copying GTFS file kitsap-transit from 'current' to 'previous'. 
+
+
+
+ 
+
+
+-> COPYING CREATED INDIVIDUAL GRAPHS,GTFS data TO THE RESPECTIVE 'otp/router/' DIRECTORY
+
+1.)  Copying files for router/county: kcm
+
+
+- Copied file: community-transit.zip from folder 'graph_creation' to respective otp server router 'otp/router'.
+
+
+- Copied file: kitsap-transit.zip from folder 'graph_creation' to respective otp server router 'otp/router'.
+
+
+- Copied file: pierce-transit.zip from folder 'graph_creation' to respective otp server router 'otp/router'.
+
+
+- Copied file: king-county-metro.zip from folder 'graph_creation' to respective otp server router 'otp/router'.
+
+
+- Copied file: sound-transit.zip from folder 'graph_creation' to respective otp server router 'otp/router'.
+
+
+- Copied file: Graph.obj from folder 'graph_creation' to respective otp server router 'otp/router'.
+
+
+
+ 
+
+

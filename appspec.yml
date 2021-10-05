@@ -1,0 +1,20 @@
+version: 0.0
+os: linux
+files:
+  - source: workspace/MultiTenant/
+    destination: /home/ec2-user/code-deploy-artifacts/workspace/MultiTenant/
+  - source: workspace/fetch_osm_create_graph_existing.py
+    destination: /home/ec2-user/code-deploy-artifacts/workspace/
+  - source: workspace/fetch_osm_create_graph_new.py
+    destination: /home/ec2-user/code-deploy-artifacts/workspace/
+  - source: workspace/initial_download.py
+    destination: /home/ec2-user/code-deploy-artifacts/workspace/
+  - source: workspace/multi-tenant-otp-server.sh
+    destination: /home/ec2-user/code-deploy-artifacts/workspace/
+  - source: workspace/after_install_script.sh
+    destination: /home/ec2-user/code-deploy-artifacts/workspace/
+hooks:
+  AfterInstall:
+    - location: workspace/after_install_script.sh
+      runas: root
+      timeout: 60

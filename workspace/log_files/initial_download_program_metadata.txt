@@ -1,0 +1,29 @@
+The following information for manual initial download is for date: Monday, 11 Jan 2021 09:13:21 GMT
+
+
+---- The Following files and folders will be deleted as they are no longer included in county_names.json config file-------------- 
+ 
+
+
+-> COPYING ALL WORKING GTFS FROM Folder 'current' TO Folder 'previous' FOR FUTURE REFERENCES
+
+
+- Copying GTFS file king-county-metro from 'current' to 'previous'. 
+
+
+- Copying GTFS file sound-transit from 'current' to 'previous'. 
+
+
+- Copying GTFS file community-transit from 'current' to 'previous'. 
+
+
+- Copying GTFS file pierce-transit from 'current' to 'previous'. 
+
+
+- Copying GTFS file kitsap-transit from 'current' to 'previous'. 
+
+
+
+ 
+
+
